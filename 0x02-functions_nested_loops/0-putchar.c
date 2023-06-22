@@ -1,10 +1,11 @@
 #include "main.h"
+
+
 /**
  * main - print _putchar
  * is written by oscar
- * return: 0;
+ * return: 0 on successful execution;
  */
-
 int main(void)
 {
 _putchar('_');
